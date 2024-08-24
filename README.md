@@ -1,1 +1,3 @@
 # Financial-dasboard
+
+nextJs starter
